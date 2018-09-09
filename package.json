@@ -35,7 +35,7 @@
   "license": "MIT",
   "devDependencies": {
     "assert": "^1.1.2",
-    "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
+    "bitcore-build": "git://github.com/anonymousbitcoin/bitcore-build-anon.git",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
