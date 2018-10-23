@@ -3,6 +3,8 @@ coverage
 node_modules
 bitcore-mnemonic.js
 bitcore-mnemonic.min.js
+bitcore-mnemonic-anon.js
+bitcore-mnemonic-anon.min.js
 tests.js
 
 lib/errors/index.js

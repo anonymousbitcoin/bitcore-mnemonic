@@ -3,7 +3,7 @@ require=(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c=
 
 var spec = {
   name: 'Mnemonic',
-  message: 'Internal Error on bitcore-mnemonic module {0}',
+  message: 'Internal Error on bitcore-mnemonic-anon module {0}',
   errors: [{
     name: 'InvalidEntropy',
     message: 'Entropy length must be an even multiple of 11 bits: {0}'
